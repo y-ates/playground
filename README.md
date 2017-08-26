@@ -6,6 +6,8 @@ We use github issues for tracking new requests and bugs. Your feedback is highly
 **If you'd like to contribute, be sure to review the [contribution
 guidelines](CONTRIBUTING.md).**
 
+![Tensorflow Playground Example GIF](https://github.com/y-ates/playground/blob/master/tensorflow_playground.gif)
+
 ## Development
 
 To run the visualization locally you just need a server to serve all the files from the `dist` directory. You can run `npm install` then `npm run serve` if you don't have one handy. To see the visualization, visit `http://localhost:8080/` on your browser.
